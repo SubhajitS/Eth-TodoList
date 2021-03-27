@@ -1,0 +1,18 @@
+body {
+    background-color:#433520;
+    font-family: EYInterstate;
+}
+.btn {
+    background-color:#025955;
+    border-radius: 0;
+    border: 1px solid #025955;
+    color: #fff;
+}
+.forms {
+    background-color: #fde8cd;
+    border-radius: 1em;
+}
+.list-group-item {
+    background-color: #00917c;
+    color: #fff;
+}
